@@ -1,8 +1,9 @@
 *.pyc
-.env/
-vscode/
+.vscode/
 /.idea/
 .idea/
 /mysite/.idea
 .idea
-
+../**/.env
+../.env/
+!/.env
